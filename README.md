@@ -1,6 +1,5 @@
 # ARrow-sandbox
 Prove per js coding
 
-Ciao, sto cercando di capire come utilizzare
-GIThub per inserire codice javascript
+Ciao, uso GIThub per testare il mio codice javascript
 
